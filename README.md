@@ -1,5 +1,5 @@
 # srapy-selenium
 
 requirements:
- scrapy
- selenium
+ <br><strong>scrapy</strong>
+ <br><strong>selenium</strong>
